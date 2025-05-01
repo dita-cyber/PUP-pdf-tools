@@ -8,7 +8,7 @@ I received an alert related to **"Anomaly detected in ASEP registry"**
 
 **Threat Description:** The Autorun or the ASEP (AutoStart Extension Point) Registry Keys control what is launched for the user when they initially log in. Attackers can modify specific keys and attain persistence on an exploited machine. In doing so, this can allow a binary to be executed with elevated privileges.<br/>
 
-Microsoft Defender timeline showed that processSetupHost.exe changed registry value XXX\Software\Microsoft\Windows\CurrentVersion\Run followed by events related to PUP (potential unwanted program) PDF tools:
+Microsoft Defender timeline showed that processSetupHost.exe changed registry value **"XXX\Software\Microsoft\Windows\CurrentVersion\Run"** followed by events related to PUP (potential unwanted program) PDF tools:
 
 SetupHost.exe created file SmartConvertPDF_48160421.msi<br/>
 SHA1: f7e5e48f6444c7b8f42fe6e0aaa4e0bd17f291f4<br/>
