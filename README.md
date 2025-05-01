@@ -14,11 +14,15 @@ SHA1: f7e5e48f6444c7b8f42fe6e0aaa4e0bd17f291f4<br/>
 SetupHost.exe created file smartviewpdf.msi<br/>
 SHA1: e1c6f8ae524d8bd9ef91fbeccfcb8952b00d25fa<br/>
 
-VirusTotal Analysis:
- 
-(images to be added)
+![image alt](https://github.com/dita-cyber/PUP-pdf-tools/blob/19e05cb7c57641241c86a85a121078c0621ca916/defender2.png)
 
-(images to be added)
+![image alt](https://github.com/dita-cyber/PUP-pdf-tools/blob/19e05cb7c57641241c86a85a121078c0621ca916/defender1.png)
+
+**VirusTotal Analysis:**
+ 
+![image alt](https://github.com/dita-cyber/PUP-pdf-tools/blob/19e05cb7c57641241c86a85a121078c0621ca916/pdfVT1.png)
+
+![image alt](https://github.com/dita-cyber/PUP-pdf-tools/blob/19e05cb7c57641241c86a85a121078c0621ca916/pdfVT2.png)
 
 PUPs, or Potentially Unwanted Programs, are typically installed alongside other software and serve as marketing tools. They often modify browser settings or display intrusive advertisements, the most common form being adware. Although these binaries have a low reputation based on their malicious OSINT, they are classified as PUPs due to their unusual persistence mechanisms. PDF tools with similar behavior are commonly observed across various environments.
 
